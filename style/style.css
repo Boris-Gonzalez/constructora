@@ -29,7 +29,6 @@ body{
 .trabajos-img > img{
     width: 100%;
     height: 400px;
-    position:static;
 }
 .texto-important{
     color: #F9A826;
